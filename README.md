@@ -22,4 +22,10 @@ This project uses machine learning to classify iris flowers into three distinct 
 4. The dataset is loaded automatically, so no manual file uploads are required.
 
 ## 📊 Results
-* **Model Accuracy:** [Insert your model accuracy here, e.g., 96%]
+* **Model Accuracy:** [
+* Accuracy:  1.0
+                 precision    recall  f1-score   support
+
+    Iris-setosa       1.00      1.00      1.00         9
+Iris-versicolor       1.00      1.00      1.00        13
+ Iris-virginica       1.00      1.00      1.00         8]
