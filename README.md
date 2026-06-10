@@ -9,7 +9,7 @@ This project uses machine learning to classify iris flowers into three distinct 
 * **Goal:** Train a classification model to accurately predict flower species.
 * **Libraries Used:** Python, Pandas, NumPy, Scikit-Learn.
 
-## ⚙️ Workflow
+## Workflow
 1. **Data Loading:** Fetching the dataset natively from Scikit-Learn.
 2. **Preprocessing:** Splitting the data into training and testing datasets.
 3. **Model Training:** Training a classification algorithm on the training features.
